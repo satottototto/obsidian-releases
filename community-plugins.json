@@ -40129,5 +40129,12 @@
     "author": "yaye.work",
     "description": "Browse your notes on a calendar. Every note appears on the day you created it, like a Daily Note setup but automatic. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yaye-work/note-diary"
+  },
+  {
+    "id": "emr-scribe",
+    "name": "EMR Scribe",
+    "author": "satottototto",
+    "description": "Low-latency handwriting for E-Ink and Wacom EMR tablets, with built-in Japanese and English handwriting recognition.",
+    "repo": "satottototto/emr-scribe"
   }
 ]
